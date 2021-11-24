@@ -7,16 +7,7 @@ Pārbaudiet vai programma strādā pareizi, saglabājiet, izveidojiet COMMIT, no
 """
 
 print("Mans vārds ir Juris")
-
-
 print("Mans vārds ir Katrīna")
-
-
-
-
-
-
-
-
-
+print("Mani sauc Evelīna")
+print("Mani sauc Daniels :)")
 
